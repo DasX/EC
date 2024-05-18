@@ -66,6 +66,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.vcxproj.user  # Added this line
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
